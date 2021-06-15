@@ -19,3 +19,14 @@ print("W sumie kupuję",count,"produktów.")
 licz=[]
 poteg=[]
 i=0
+
+while True:
+    m=i*5
+    licz.append(m)
+    i=i+1
+    j=m**3
+    poteg.append(j)
+    if m >=100:
+        break
+print("liczby podzielne przez 5:",licz)
+print("potęgi ^3 liczb podzielnych przez 5:",poteg)
