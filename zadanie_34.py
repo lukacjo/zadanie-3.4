@@ -14,3 +14,8 @@ for key, value in itemy:
     print("Ide do", key.capitalize(),"kupuje tu następujące rzeczy:",value )
     count += len(value)
 print("W sumie kupuję",count,"produktów.")
+
+#zadanie 2
+licz=[]
+poteg=[]
+i=0
