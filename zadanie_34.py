@@ -30,3 +30,4 @@ while True:
         break
 print("liczby podzielne przez 5:",licz)
 print("potęgi ^3 liczb podzielnych przez 5:",poteg)
+print("sprawdzam git push")
